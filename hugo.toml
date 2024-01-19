@@ -1,5 +1,6 @@
 baseURL = "/"
 title = "Goldydocs"
+publishDir = "docs"
 
 # Language settings
 contentDir = "content/en"
@@ -14,7 +15,7 @@ enableRobotsTXT = true
 enableGitInfo = true
 
 # Comment out to enable taxonomies in Docsy
-# disableKinds = ["taxonomy", "taxonomyTerm"]
+# disableKinds = ["taxonomy"]
 
 # You can add your own taxonomies
 [taxonomies]
